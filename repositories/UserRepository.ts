@@ -1,4 +1,3 @@
-
 import User from '../Dto/UserDto';
 import db from '../config/config-db';
 
